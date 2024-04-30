@@ -7,7 +7,7 @@
        For data analysis and financial insights, Python is my go-to language. These libraries allow me to extract valuable information efficiently.
      - C# and Unity: 
        Game design is my creative outlet. Using C# in Unity, I craft engaging and fun games, exploring interactive experiences.
-     #### And now, with AI, the possibilities are even more intriguing.
+     #### And now, with AI, the possibilities are even more intriguing, BTW my Avatar was from Stable AI.  
 
 
 <!---
