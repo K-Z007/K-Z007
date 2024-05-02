@@ -1,4 +1,4 @@
-- 👋 Hi, I’m K-Z007
+- 👋 Hi, I’m K-Z007, pls check [My blog](https://k-z007.github.io/)
 - 👀 I’m interested in Software and Web Development, Data Science and Game Design.
 - 🌱 I have a passion for learning new technologies, recognizing their interconnectedness. My work and leisure involves a diverse range of tools to create innovative solutions:
      - Java SpringBoot and C# with .NET:
@@ -7,7 +7,7 @@
        For data analysis and financial insights, Python is my go-to language. These libraries allow me to extract valuable information efficiently.
      - C# and Unity: 
        Game design is my creative outlet. Using C# in Unity, I craft engaging and fun games, exploring interactive experiences.
-     #### And now, with AI, the possibilities are even more intriguing, BTW my Avatar was from Stable AI.  
+     #### And now, with AI, the possibilities are even more intriguing.  
 
 
 <!---
